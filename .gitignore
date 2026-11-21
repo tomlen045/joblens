@@ -1,0 +1,9 @@
+.gitignore
+publish-gitee.sh
+publish-github.sh
+debug_one.py
+selftest.log
+*.png
+shots/
+*-article.html
+__pycache__/
